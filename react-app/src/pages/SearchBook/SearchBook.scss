@@ -1,0 +1,28 @@
+$color: rgb(243, 243, 243);
+$width-border: 1px;
+$color-border: darkgray;
+$style-border: solid;
+
+.form {
+    background: rgb(224, 224, 224);
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin: 10px auto;
+}
+
+#inputTitleBook,
+#inputAuthorBook,
+#categorySelect,
+#languageSelect,
+#formatSelect,
+#inputStartYear,
+#inputEndYear {
+    background-color: $color;
+    border-style: $style-border;
+    border-color: $color-border;
+    border-bottom-width: 2px;
+
+    &:focus {
+        border-color: rgb(55, 0, 235);
+    }
+}

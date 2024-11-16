@@ -1,0 +1,31 @@
+/* обгортка карток */
+.cards-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+/* зображення карток */
+.card img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 2 / 3;
+}
+
+/* картка */
+.card {
+    width: 250px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 0.5em;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+/* тіло картки */
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

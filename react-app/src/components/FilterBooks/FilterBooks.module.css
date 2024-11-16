@@ -1,0 +1,7 @@
+.sel{
+    background-color: rgb(243, 243, 243);
+}
+
+.sel:focus{
+    border-color: blue;
+}

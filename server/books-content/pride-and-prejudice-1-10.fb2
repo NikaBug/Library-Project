@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+<description>
+    <title-info>
+        <genre>antique</genre>
+        <author><first-name></first-name><last-name>Unknown</last-name></author>
+        <book-title>555d723f3ddc43feea14faba67d0b9c1</book-title>
+        <lang>en</lang>
+    </title-info>
+    <document-info>
+        <author><first-name></first-name><last-name>Unknown</last-name></author>
+        <program-used>calibre 4.99.5</program-used>
+        <date>15.11.2024</date>
+        <id>deb08d5e-0bd2-4428-8e19-d00471a47932</id>
+        <version>1.0</version>
+    </document-info>
+    <publish-info>
+    </publish-info>
+</description>
+<body>
+<section>
+<p><image l:href="#img_0"/></p>
+<empty-line/>
+<p><strong>Pride and Prejudice</strong></p>
+<empty-line/>
+<p><strong>By</strong></p>
+<empty-line/>
+<p><strong>Jane Austen</strong></p>
+<empty-line/>
+<p><strong>Chapter 1</strong></p>
+<empty-line/>
+<p>It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.</p>
+<p>However little known the feelings or views of such a man may be on his first  entering  a  neighbourhood,  this  truth  is  so  well  fixed  in  the  minds  of  the surrounding families, that he is considered the rightful property of some one or other of their daughters.</p>
+<p>“My dear Mr. Bennet,” said his lady to him one day, “have you heard that Netherfield Park is let at last?”</p>
+<p>Mr. Bennet replied that he had not.</p>
+<p>“But  it  is,”  returned  she;  “for  Mrs.  Long  has  just  been  here,  and  she  told me all about it.”</p>
+<p>Mr. Bennet made no answer.</p>
+<p>“Do you not want to know who has taken it?” cried his wife impatiently.</p>
+<p>“You want to tell me, and I have no objection to hearing it.”</p>
+<p>This was invitation enough.</p>
+<p>“Why, my dear, you must know, Mrs. Long says that Netherfield is taken by  a  young  man  of  large  fortune  from  the  north  of  England;  that  he  came down  on  Monday  in  a  chaise  and  four  to  see  the  place,  and  was  so  much delighted  with  it,  that  he  agreed  with  Mr.  Morris  immediately;  that  he  is  to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week.”</p>
+<p>“What is his name?”</p>
+<p>“Bingley.”</p>
+<p>“Is he married or single?”</p>
+<p>“Oh!  Single,  my  dear,  to  be  sure!  A  single  man  of  large  fortune;  four  or five thousand a year. What a fine thing for our girls!”</p>
+<p>“How so? How can it affect them?”</p>
+<p>“My dear Mr. Bennet,” replied his wife, “how can you be so tiresome! You must know that I am thinking of his marrying one of them.”</p>
+<p>“Is that his design in settling here?”</p>
+<p>“Design! Nonsense, how can you talk so! But it is very likely that he may</p>
+<p>fall in love with one of them, and therefore you must visit him as soon as he comes.”</p>
+<p>“I  see  no  occasion  for  that.  You  and  the  girls  may  go,  or  you  may  send them  by  themselves,  which  perhaps  will  be  still  better,  for  as  you  are  as handsome as any of them, Mr. Bingley may like you the best of the party.”</p>
+<p>“My dear, you flatter me. I certainly have had my share of beauty, but I do not pretend to be anything extraordinary now. When a woman has five grown-up daughters, she ought to give over thinking of her own beauty.”</p>
+<p>“In such cases, a woman has not often much beauty to think of.”</p>
+<p>“But,  my  dear,  you  must  indeed  go  and  see  Mr.  Bingley  when  he  comes into the neighbourhood.”</p>
+<p>“It is more than I engage for, I assure you.”</p>
+<p>“But  consider  your  daughters.  Only  think  what  an  establishment  it  would be for one of them. Sir William and Lady Lucas are determined to go, merely on  that  account,  for  in  general,  you  know,  they  visit  no  newcomers.  Indeed you must go, for it will be impossible for us to visit him if you do not.”</p>
+<p>“You are over-scrupulous, surely. I dare say Mr. Bingley will be very glad to  see  you;  and  I  will  send  a  few  lines  by  you  to  assure  him  of  my  hearty consent  to  his  marrying  whichever  he  chooses  of  the  girls;  though  I  must throw in a good word for my little Lizzy.”</p>
+<p>“I desire you will do no such thing. Lizzy is not a bit better than the others; and I am sure she is not half so handsome as Jane, nor half so good-humoured as Lydia. But you are always giving her the preference.”</p>
+<p>“They have none of them much to recommend them,” replied he; “they are all  silly  and  ignorant  like  other  girls;  but  Lizzy  has  something  more  of quickness than her sisters.”</p>
+<p>“Mr.  Bennet,  how  can  you  abuse  your  own  children  in  such  a  way?  You take delight in vexing me. You have no compassion for my poor nerves.”</p>
+<p>“You mistake me, my dear. I have a high respect for your nerves. They are my  old  friends.  I  have  heard  you  mention  them  with  consideration  these  last twenty years at least.”</p>
+<p>“Ah, you do not know what I suffer.”</p>
+<p>“But I hope you will get over it, and live to see many young men of four thousand a year come into the neighbourhood.”</p>
+<p>“It will be no use to us, if twenty such should come, since you will not visit them.”</p>
+<p>“Depend upon it, my dear, that when there are twenty, I will visit them all.”</p>
+<p>Mr. Bennet was so odd a mixture of quick parts, sarcastic humour, reserve, and  caprice,  that  the  experience  of  three-and-twenty  years  had  been insufficient  to  make  his  wife  understand  his  character.  Her  mind  was  less difficult  to  develop.  She  was  a  woman  of  mean  understanding,  little information,  and  uncertain  temper.  When  she  was  discontented,  she  fancied herself nervous. The business of her life was to get her daughters married; its solace was visiting and news.</p>
+<empty-line/>
+<p><strong>Chapter 2</strong></p>
+<empty-line/>
+<p>Mr. Bennet was among the earliest of those who waited on Mr. Bingley. He had always intended to visit him, though to the last always assuring his wife that he should not go; and till the evening after the visit was paid she had no knowledge of it. It was then disclosed in the following manner. Observing his second daughter employed in trimming a hat, he suddenly addressed her with:</p>
+<p>“I hope Mr. Bingley will like it, Lizzy.”</p>
+<p>“We  are  not  in  a  way  to  know  what  Mr.  Bingley  likes,”  said  her  mother resentfully, “since we are not to visit.”</p>
+<p>“But  you  forget,  mamma,”  said  Elizabeth,  “that  we  shall  meet  him  at  the assemblies, and that Mrs. Long promised to introduce him.”</p>
+<p>“I do not believe Mrs. Long will do any such thing. She has two nieces of her own. She is a selfish, hypocritical woman, and I have no opinion of her.”</p>
+<p>“No more have I,” said Mr. Bennet; “and I am glad to find that you do not depend on her serving you.”</p>
+<p>Mrs. Bennet deigned not to make any reply, but, unable to contain herself, began scolding one of her daughters.</p>
+<p>“Don’t  keep  coughing  so,  Kitty,  for  Heaven’s  sake!  Have  a  little compassion on my nerves. You tear them to pieces.”</p>
+<p>“Kitty  has  no  discretion  in  her  coughs,”  said  her  father;  “she  times  them ill.”</p>
+<p>“I do not cough for my own amusement,” replied Kitty fretfully. “When is your next ball to be, Lizzy?”</p>
+<p>“To-morrow fortnight.”</p>
+<p>“Aye, so it is,” cried her mother, “and Mrs. Long does not come back till</p>
+<p>the day before; so it will be impossible for her to introduce him, for she will not know him herself.”</p>
+<p>“Then, my dear, you may have the advantage of your friend, and introduce Mr. Bingley to her.”</p>
+<p>“Impossible, Mr. Bennet, impossible, when I am not acquainted with him myself; how can you be so teasing?”</p>
+<p>“I honour your circumspection. A fortnight’s acquaintance is certainly very little. One cannot know what a man really is by the end of a fortnight. But if we do not venture somebody else will; and after all, Mrs. Long and her nieces must stand their chance; and, therefore, as she will think it an act of kindness, if you decline the office, I will take it on myself.”</p>
+<p>The  girls  stared  at  their  father.  Mrs.  Bennet  said  only,  “Nonsense, nonsense!”</p>
+<p>“What  can  be  the  meaning  of  that  emphatic  exclamation?”  cried  he.  “Do you consider the forms of introduction, and the stress that is laid on them, as nonsense? I cannot quite agree with you there. What say you, Mary? For you are  a  young  lady  of  deep  reflection,  I  know,  and  read  great  books  and  make extracts.”</p>
+<p>Mary wished to say something sensible, but knew not how.</p>
+<p>“While  Mary  is  adjusting  her  ideas,”  he  continued,  “let  us  return  to  Mr.</p>
+<p>Bingley.”</p>
+<p>“I am sick of Mr. Bingley,” cried his wife.</p>
+<p>“I am sorry to hear that; but why did not you tell me that before? If I had known  as  much  this  morning  I  certainly  would  not  have  called  on  him.  It  is very  unlucky;  but  as  I  have  actually  paid  the  visit,  we  cannot  escape  the acquaintance now.”</p>
+<p>The  astonishment  of  the  ladies  was  just  what  he  wished;  that  of  Mrs.</p>
+<p>Bennet  perhaps  surpassing  the  rest;  though,  when  the  first  tumult  of  joy  was over, she began to declare that it was what she had expected all the while.</p>
+<p>“How  good  it  was  in  you,  my  dear  Mr.  Bennet!  But  I  knew  I  should persuade you at last. I was sure you loved your girls too well to neglect such an acquaintance. Well, how pleased I am! and it is such a good joke, too, that you should have gone this morning and never said a word about it till now.”</p>
+<p>“Now,  Kitty,  you  may  cough  as  much  as  you  choose,”  said  Mr.  Bennet; and, as he spoke, he left the room, fatigued with the raptures of his wife.</p>
+<p>“What  an  excellent  father  you  have,  girls!”  said  she,  when  the  door  was shut. “I do not know how you will ever make him amends for his kindness; or</p>
+<p>me,  either,  for  that  matter.  At  our  time  of  life  it  is  not  so  pleasant,  I  can  tell you, to be making new acquaintances every day; but for your sakes, we would do  anything.  Lydia,  my  love,  though  you  are  the  youngest,  I  dare  say  Mr.</p>
+<p>Bingley will dance with you at the next ball.”</p>
+<p>“Oh!”  said  Lydia  stoutly,  “I  am  not  afraid;  for  though  I  am  the  youngest, I’m the tallest.”</p>
+<p>The  rest  of  the  evening  was  spent  in  conjecturing  how  soon  he  would return Mr. Bennet’s visit, and determining when they should ask him to dinner.</p>
+<empty-line/>
+<p><strong>Chapter 3</strong></p>
+<empty-line/>
+<p>Not  all  that  Mrs.  Bennet,  however,  with  the  assistance  of  her  five daughters, could ask on the subject, was sufficient to draw from her husband any satisfactory description of Mr. Bingley. They attacked him in various ways</p>
+<p>—with barefaced questions, ingenious suppositions, and distant surmises; but he  eluded  the  skill  of  them  all,  and  they  were  at  last  obliged  to  accept  the second-hand  intelligence  of  their  neighbour,  Lady  Lucas.  Her  report  was highly  favourable.  Sir  William  had  been  delighted  with  him.  He  was  quite young, wonderfully handsome, extremely agreeable, and, to crown the whole, he meant to be at the next assembly with a large party. Nothing could be more delightful!  To  be  fond  of  dancing  was  a  certain  step  towards  falling  in  love; and very lively hopes of Mr. Bingley’s heart were entertained.</p>
+<p>“If I can but see one of my daughters happily settled at Netherfield,” said Mrs.  Bennet  to  her  husband,  “and  all  the  others  equally  well  married,  I  shall have nothing to wish for.”</p>
+<p>In  a  few  days  Mr.  Bingley  returned  Mr.  Bennet’s  visit,  and  sat  about  ten minutes with him in his library. He had entertained hopes of being admitted to a sight of the young ladies, of whose beauty he had heard much; but he saw only  the  father.  The  ladies  were  somewhat  more  fortunate,  for  they  had  the advantage of ascertaining from an upper window that he wore a blue coat, and rode a black horse.</p>
+<p>An  invitation  to  dinner  was  soon  afterwards  dispatched;  and  already  had Mrs.  Bennet  planned  the  courses  that  were  to  do  credit  to  her  housekeeping, when an answer arrived which deferred it all. Mr. Bingley was obliged to be in town  the  following  day,  and,  consequently,  unable  to  accept  the  honour  of their  invitation,  etc.  Mrs.  Bennet  was  quite  disconcerted.  She  could  not imagine  what  business  he  could  have  in  town  so  soon  after  his  arrival  in Hertfordshire; and she began to fear that he might be always flying about from</p>
+<p>one place to another, and never settled at Netherfield as he ought to be. Lady Lucas quieted her fears a little by starting the idea of his being gone to London only  to  get  a  large  party  for  the  ball;  and  a  report  soon  followed  that  Mr.</p>
+<p>Bingley  was  to  bring  twelve  ladies  and  seven  gentlemen  with  him  to  the assembly. The girls grieved over such a number of ladies, but were comforted the day before the ball by hearing, that instead of twelve he brought only six with  him  from  London—his  five  sisters  and  a  cousin.  And  when  the  party entered the assembly room it consisted of only five altogether—Mr. Bingley, his two sisters, the husband of the eldest, and another young man.</p>
+<p>Mr.  Bingley  was  good-looking  and  gentlemanlike;  he  had  a  pleasant countenance, and easy, unaffected manners. His sisters were fine women, with an  air  of  decided  fashion.  His  brother-in-law,  Mr.  Hurst,  merely  looked  the gentleman; but his friend Mr. Darcy soon drew the attention of the room by his fine, tall person, handsome features, noble mien, and the report which was in general  circulation  within  five  minutes  after  his  entrance,  of  his  having  ten thousand a year. The gentlemen pronounced him to be a fine figure of a man, the  ladies  declared  he  was  much  handsomer  than  Mr.  Bingley,  and  he  was looked  at  with  great  admiration  for  about  half  the  evening,  till  his  manners gave a disgust which turned the tide of his popularity; for he was discovered to be proud; to be above his company, and above being pleased; and not all his large estate in Derbyshire could then save him from having a most forbidding, disagreeable countenance, and being unworthy to be compared with his friend.</p>
+<p>Mr.  Bingley  had  soon  made  himself  acquainted  with  all  the  principal people  in  the  room;  he  was  lively  and  unreserved,  danced  every  dance,  was angry  that  the  ball  closed  so  early,  and  talked  of  giving  one  himself  at Netherfield.  Such  amiable  qualities  must  speak  for  themselves.  What  a contrast  between  him  and  his  friend!  Mr.  Darcy  danced  only  once  with  Mrs.</p>
+<p>Hurst  and  once  with  Miss  Bingley,  declined  being  introduced  to  any  other lady,  and  spent  the  rest  of  the  evening  in  walking  about  the  room,  speaking occasionally  to  one  of  his  own  party.  His  character  was  decided.  He  was  the proudest,  most  disagreeable  man  in  the  world,  and  everybody  hoped  that  he would  never  come  there  again.  Amongst  the  most  violent  against  him  was Mrs.  Bennet,  whose  dislike  of  his  general  behaviour  was  sharpened  into particular resentment by his having slighted one of her daughters.</p>
+<p>Elizabeth  Bennet  had  been  obliged,  by  the  scarcity  of  gentlemen,  to  sit down  for  two  dances;  and  during  part  of  that  time,  Mr.  Darcy  had  been standing  near  enough  for  her  to  hear  a  conversation  between  him  and  Mr.</p>
+<p>Bingley,  who  came  from  the  dance  for  a  few  minutes,  to  press  his  friend  to join it.</p>
+<p>“Come, Darcy,” said he, “I must have you dance. I hate to see you standing about by yourself in this stupid manner. You had much better dance.”</p>
+<p>“I  certainly  shall  not.  You  know  how  I  detest  it,  unless  I  am  particularly acquainted  with  my  partner.  At  such  an  assembly  as  this  it  would  be insupportable. Your sisters are engaged, and there is not another woman in the room whom it would not be a punishment to me to stand up with.”</p>
+<p>“I  would  not  be  so  fastidious  as  you  are,”  cried  Mr.  Bingley,  “for  a kingdom! Upon my honour, I never met with so many pleasant girls in my life as  I  have  this  evening;  and  there  are  several  of  them  you  see  uncommonly pretty.”</p>
+<p>“You  are  dancing  with  the  only  handsome  girl  in  the  room,”  said  Mr.</p>
+<p>Darcy, looking at the eldest Miss Bennet.</p>
+<p>“Oh! She is the most beautiful creature I ever beheld! But there is one of her sisters sitting down just behind you, who is very pretty, and I dare say very agreeable. Do let me ask my partner to introduce you.”</p>
+<p>“Which  do  you  mean?”  and  turning  round  he  looked  for  a  moment  at Elizabeth, till catching her eye, he withdrew his own and coldly said: “She is tolerable, but not handsome enough to tempt me; I am in no humour at present to give consequence to young ladies who are slighted by other men. You had better  return  to  your  partner  and  enjoy  her  smiles,  for  you  are  wasting  your time with me.”</p>
+<p>Mr.  Bingley  followed  his  advice.  Mr.  Darcy  walked  off;  and  Elizabeth remained  with  no  very  cordial  feelings  toward  him.  She  told  the  story, however,  with  great  spirit  among  her  friends;  for  she  had  a  lively,  playful disposition, which delighted in anything ridiculous.</p>
+<p>The  evening  altogether  passed  off  pleasantly  to  the  whole  family.  Mrs.</p>
+<p>Bennet  had  seen  her  eldest  daughter  much  admired  by  the  Netherfield  party.</p>
+<p>Mr. Bingley had danced with her twice, and she had been distinguished by his sisters. Jane was as much gratified by this as her mother could be, though in a quieter way. Elizabeth felt Jane’s pleasure. Mary had heard herself mentioned to  Miss  Bingley  as  the  most  accomplished  girl  in  the  neighbourhood;  and Catherine and Lydia had been fortunate enough never to be without partners, which  was  all  that  they  had  yet  learnt  to  care  for  at  a  ball.  They  returned, therefore,  in  good  spirits  to  Longbourn,  the  village  where  they  lived,  and  of which  they  were  the  principal  inhabitants.  They  found  Mr.  Bennet  still  up.</p>
+<p>With a book he was regardless of time; and on the present occasion he had a good  deal  of  curiosity  as  to  the  event  of  an  evening  which  had  raised  such splendid  expectations.  He  had  rather  hoped  that  his  wife’s  views  on  the stranger would be disappointed; but he soon found out that he had a different story to hear.</p>
+<p>“Oh! my dear Mr. Bennet,” as she entered the room, “we have had a most</p>
+<p>delightful evening, a most excellent ball. I wish you had been there. Jane was so admired, nothing could be like it. Everybody said how well she looked; and Mr. Bingley thought her quite beautiful, and danced with her twice! Only think of  that,  my  dear;  he  actually  danced  with  her  twice!  and  she  was  the  only creature  in  the  room  that  he  asked  a  second  time.  First  of  all,  he  asked  Miss Lucas. I was so vexed to see him stand up with her! But, however, he did not admire her at all; indeed, nobody can, you know; and he seemed quite struck with Jane as she was going down the dance. So he inquired who she was, and got introduced, and asked her for the two next. Then the two third he danced with Miss King, and the two fourth with Maria Lucas, and the two fifth with Jane again, and the two sixth with Lizzy, and the Boulanger—”</p>
+<p>“If he had had any compassion for me,” cried her husband impatiently, “he would  not  have  danced  half  so  much!  For  God’s  sake,  say  no  more  of  his partners. Oh that he had sprained his ankle in the first dance!”</p>
+<p>“Oh!  my  dear,  I  am  quite  delighted  with  him.  He  is  so  excessively handsome!  And  his  sisters  are  charming  women.  I  never  in  my  life  saw anything more elegant than their dresses. I dare say the lace upon Mrs. Hurst’s gown—”</p>
+<p>Here  she  was  interrupted  again.  Mr.  Bennet  protested  against  any description of finery. She was therefore obliged to seek another branch of the subject, and related, with much bitterness of spirit and some exaggeration, the shocking rudeness of Mr. Darcy.</p>
+<p>“But I can assure you,” she added, “that Lizzy does not lose much by not suiting  his  fancy;  for  he  is  a  most  disagreeable,  horrid  man,  not  at  all  worth pleasing. So high and so conceited that there was no enduring him! He walked here,  and  he  walked  there,  fancying  himself  so  very  great!  Not  handsome enough to dance with! I wish you had been there, my dear, to have given him one of your set-downs. I quite detest the man.”</p>
+<empty-line/>
+<p><strong>Chapter 4</strong></p>
+<empty-line/>
+<p>When Jane and Elizabeth were alone, the former, who had been cautious in her  praise  of  Mr.  Bingley  before,  expressed  to  her  sister  just  how  very  much she admired him.</p>
+<p>“He  is  just  what  a  young  man  ought  to  be,”  said  she,  “sensible,  good-humoured, lively; and I never saw such happy manners!—so much ease, with such perfect good breeding!”</p>
+<p>“He  is  also  handsome,”  replied  Elizabeth,  “which  a  young  man  ought</p>
+<p>likewise to be, if he possibly can. His character is thereby complete.”</p>
+<p>“I was very much flattered by his asking me to dance a second time. I did not expect such a compliment.”</p>
+<p>“Did  not  you?  I  did  for  you.  But  that  is  one  great  difference  between  us.</p>
+<p>Compliments always take you by surprise, and me never. What could be more natural  than  his  asking  you  again?  He  could  not  help  seeing  that  you  were about five times as pretty as every other woman in the room. No thanks to his gallantry for that. Well, he certainly is very agreeable, and I give you leave to like him. You have liked many a stupider person.”</p>
+<p>“Dear Lizzy!”</p>
+<p>“Oh! you are a great deal too apt, you know, to like people in general. You never  see  a  fault  in  anybody.  All  the  world  are  good  and  agreeable  in  your eyes. I never heard you speak ill of a human being in your life.”</p>
+<p>“I  would  not  wish  to  be  hasty  in  censuring  anyone;  but  I  always  speak what I think.”</p>
+<p>“I  know  you  do;  and  it  is  that  which  makes  the  wonder.  With  your  good sense, to be so honestly blind to the follies and nonsense of others! Affectation of  candour  is  common  enough—one  meets  with  it  everywhere.  But  to  be candid  without  ostentation  or  design—to  take  the  good  of  everybody’s character and make it still better, and say nothing of the bad—belongs to you alone. And so you like this man’s sisters, too, do you? Their manners are not equal to his.”</p>
+<p>“Certainly  not—at  first.  But  they  are  very  pleasing  women  when  you converse  with  them.  Miss  Bingley  is  to  live  with  her  brother,  and  keep  his house; and I am much mistaken if we shall not find a very charming neighbour in her.”</p>
+<p>Elizabeth listened in silence, but was not convinced; their behaviour at the assembly  had  not  been  calculated  to  please  in  general;  and  with  more quickness of observation and less pliancy of temper than her sister, and with a judgement  too  unassailed  by  any  attention  to  herself,  she  was  very  little disposed to approve them. They were in fact very fine ladies; not deficient in good humour when they were pleased, nor in the power of making themselves agreeable  when  they  chose  it,  but  proud  and  conceited.  They  were  rather handsome,  had  been  educated  in  one  of  the  first  private  seminaries  in  town, had a fortune of twenty thousand pounds, were in the habit of spending more than they ought, and of associating with people of rank, and were therefore in every respect entitled to think well of themselves, and meanly of others. They were  of  a  respectable  family  in  the  north  of  England;  a  circumstance  more deeply impressed on their memories than that their brother’s fortune and their</p>
+<empty-line/>
+</section>
+</body>
+<binary id="img_0" content-type="image/jpeg">/9j/4AAQSkZJRgABAQEAZABkAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYH
+BwcGBwcICQsJCAgKCAcHCg0KCgsMDAwMBwkODw0MDgsMDAz/2wBDAQICAgMDAwYDAwYMCAcI
+DAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAAR
+CACCAkgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9/KKKKACiiigAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoorn
+fiZ8VfDHwW8H3fiLxh4j0LwroNiu651LV76KytIB/tSyMqj8TQB0VFflV+2Z/wAHdX7Mn7Oc
+l1pvgIeIfjNr0GUH9jQ/YdJVx2a8nALD/ahilU+tfl1+1R/weEftPfGuW5tfAFn4O+EWlSEi
+JtPshqmpKp7NPdBoyfdIENAH9S006W0TPI6oiDczMcBR6k14X8Y/+Cn/AOzp+z9JLF4x+OHw
+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
+if8ABVnTLjxDZXvhv4KeA2E11ZW8rNbeG9IMgJhEuAHv7woFL4zwWC+XCFHqn7Pn/Bkp8RL/
+AMYQN8VPjF4K0rw/HIGmj8KW11qF5cJnlFa5jgSIkfxFZMf3TX7m/sUfsI/Db/gnl8A7T4d/
+CnQYdC0e3zLPcSfvrzU7kqA1zcy8GWU4HoAAFUKoAAB/Jb8XbPT/ANrz/gufc6FpNnbQ+HfE
+3xctvC+kWlugWG30uPUo7C0iVRwES1jiUAcAL6V/ZsAFGBwK/HT9jb/g0c0P9k/9sfwL8Xrn
+456v4su/BevRa+dPm8LR2wv5o3LqGlF05X58NnaelfsZQB+av/B2R8af+FTf8EaPGGmJMILj
+x/rmleHIiDhm/wBIF66j6x2cgPsTX51/8GSPwU/tv9qX40fEKSHcnhnwxaaFE5HAe+ujMce+
+2w/Jvev1t/4LQ/8ABIlf+Cwvwg8H+Dbz4i3nw/03wrrEmtSG30ZdRN9KYWhjyGmi2bFkl55z
+v7Y5T/gi/wD8EcNF/wCCOvwn8Z+G9O8Z3Xjq88Z6vFqVxqM+lrpzRRxQiOOAIssmQpMjbtw/
+1mMcZIB9pV8n/wDBR/4Fan+3rqHhr9n6O6u9O8B6xLD4i+Jd7bSGOWXR4Jc2+lRsMFXvrmMg
+sD8sNpcZ5ZA31hVGx0W306+vLiKMCbUJRLO+OZCEVF/AKqj/APWaAK/gnwXpPw38H6X4f0HT
+bPR9E0O1jsbCxs4hFb2cEahI40QcKqqAAB0ArWoooAKKKKACiiigAooooAKKKKACiiigAooo
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAC
+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooo
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q==</binary>
+</FictionBook>
