@@ -3,7 +3,6 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
 * [Project Status](#project-status)
 
 ## General Info
@@ -29,7 +28,6 @@ Meridian – пет-проєкт на тему онлайн-бібліотеки
 - розширений пошук книг за критеріями: назва, автор, категорія, мова, формат, діапазон років видання;
 - сортування знайдених книг за назвою (за зростанням, за спаданням);
 - читання та завантаження фрагменту книги (за наявності).
-
-## Setup
+  
 ## Screenshots
 ## Project Status
