@@ -34,17 +34,19 @@ Meridian – пет-проєкт на тему онлайн-бібліотеки
 
 https://github.com/user-attachments/assets/d71e39e8-3ffc-49d5-9968-4c2b7143b283
 
-- Каталог
-
-https://github.com/user-attachments/assets/99bd4dec-0dd7-4da5-a909-60ede5360849
-
 -- сторінка детальної інформації
 
 https://github.com/user-attachments/assets/4d6d5d16-1fa7-4486-ac40-3a3a9aad74d1
 
+- Каталог
+
+https://github.com/user-attachments/assets/99bd4dec-0dd7-4da5-a909-60ede5360849
+
 - Пошук
 
 https://github.com/user-attachments/assets/337fe990-1fdc-43cf-b55d-0c725d71b3cd
+
+https://github.com/user-attachments/assets/31e44381-e356-48ff-af6e-7b4802fcf724
 
 - Про нас
 
