@@ -2,7 +2,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
+* [Screen Recorder](#screen-recorder)
 * [Project Status](#project-status)
 
 ## General Info
@@ -29,5 +29,25 @@ Meridian – пет-проєкт на тему онлайн-бібліотеки
 - сортування знайдених книг за назвою (за зростанням, за спаданням);
 - читання та завантаження фрагменту книги (за наявності).
   
-## Screenshots
+## Screen Recorder
+- Головна
+
+https://github.com/user-attachments/assets/d71e39e8-3ffc-49d5-9968-4c2b7143b283
+
+- Каталог
+
+https://github.com/user-attachments/assets/99bd4dec-0dd7-4da5-a909-60ede5360849
+
+-- сторінка детальної інформації
+
+https://github.com/user-attachments/assets/4d6d5d16-1fa7-4486-ac40-3a3a9aad74d1
+
+- Пошук
+
+https://github.com/user-attachments/assets/337fe990-1fdc-43cf-b55d-0c725d71b3cd
+
+- Про нас
+
+https://github.com/user-attachments/assets/986a6dc2-28b8-4f31-806c-186f7a44b250
+
 ## Project Status
