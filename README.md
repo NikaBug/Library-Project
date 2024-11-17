@@ -53,3 +53,4 @@ https://github.com/user-attachments/assets/31e44381-e356-48ff-af6e-7b4802fcf724
 https://github.com/user-attachments/assets/986a6dc2-28b8-4f31-806c-186f7a44b250
 
 ## Project Status
+Завершено в листопаді 2024 року.
