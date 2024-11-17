@@ -34,7 +34,7 @@ Meridian – пет-проєкт на тему онлайн-бібліотеки
 
 https://github.com/user-attachments/assets/d71e39e8-3ffc-49d5-9968-4c2b7143b283
 
--- сторінка детальної інформації
+- сторінка детальної інформації
 
 https://github.com/user-attachments/assets/4d6d5d16-1fa7-4486-ac40-3a3a9aad74d1
 
