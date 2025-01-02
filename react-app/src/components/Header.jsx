@@ -13,9 +13,10 @@ function Header() {
             <nav className="navbar navbar-expand-sm navbar-dark bg-dark bg-gradient" > {/* навігація  style={{ backgroundColor: "rgb(151, 226, 255)" }}*/}
                 <div className="container-fluid justify-content-center text-white"> {/* контейнер для вмісту шапки */}
                     <a className="navbar-brand" href="#meridianLogo"> {/* логотип */}
-                       <h4>MERIDIAN</h4>
+                       {/* <h4>MERIDIAN</h4> */}
+                       <span className="fs-4 fw-bold">MERIDIAN</span>
                     </a>
-                    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+                    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar" aria-label='navigation bar'>
                         <span className="navbar-toggler-icon" />
                     </button> {/* кнопка для розгортання меню (на меленьких екранах) */}
                     <div className="collapse navbar-collapse flex-grow-0" id="collapsibleNavbar">

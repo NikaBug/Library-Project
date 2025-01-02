@@ -20,16 +20,16 @@ function Footer() {
 
                     {/** зліва */}
                     <div>
-                        <a href="#facebook" className="me-4 text-reset">
+                        <a href="#facebook" className="me-4 text-reset" aria-label='facebook link'>
                             <i><FontAwesomeIcon icon={faFacebook} style={{ width: '25px', height: '25px' }} /></i>
                         </a>
-                        <a href="#instagram" className="me-4 text-reset">
+                        <a href="#instagram" className="me-4 text-reset" aria-label='instagram link'>
                             <FontAwesomeIcon icon={faInstagram} style={{ width: '25px', height: '25px' }} />
                         </a>
-                        <a href="#whatsapp" className="me-4 text-reset">
+                        <a href="#whatsapp" className="me-4 text-reset" aria-label='whatsapp link'>
                             <FontAwesomeIcon icon={faWhatsapp} style={{ width: '25px', height: '25px' }} />
                         </a>
-                        <a href="#linkedin" className="me-4 text-reset">
+                        <a href="#linkedin" className="me-4 text-reset" aria-label='linkedin link'>
                             <FontAwesomeIcon icon={faLinkedin} style={{ width: '25px', height: '25px' }} />
                         </a>
                     </div>

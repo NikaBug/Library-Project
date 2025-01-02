@@ -2,7 +2,9 @@
 const express = require('express')
 // const mysql = require('mysql')
 const cors = require('cors')
+const compression = require('compression');
 const path = require('path');
+
 
 // змінні середовища
 const dotenv = require('dotenv')
@@ -11,6 +13,8 @@ dotenv.config()
 const app = express()
 app.use(express.json()) // дані у json
 app.use(cors()) // для з'єднання з клієнтом
+// Увімкнення стиснення HTPP запитів
+app.use(compression());
 
 // обробка статичних файлів
 app.use('/covers', express.static(path.join(__dirname, 'covers')));
