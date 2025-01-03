@@ -16,6 +16,7 @@ app.use(cors()) // для з'єднання з клієнтом
 // Увімкнення стиснення HTPP запитів
 app.use(compression());
 
+
 // обробка статичних файлів
 app.use('/covers', express.static(path.join(__dirname, 'covers')));
 app.use('/books-content', express.static(path.join(__dirname, 'books-content')))
@@ -28,9 +29,9 @@ const db = require('./config/db');
 // отримати стислу інформацію про 
 // художню літературу (перші шість екземплярів)
 app.get('/getfiction', (req, res) => {
-    const sql = "SELECT e.idEdition, b.title, a.name AS author, e.url_cover FROM edition AS e " 
-    + "INNER JOIN book AS b ON e.book_id = b.idBook " 
-    + "INNER JOIN author AS a ON b.author_id = a.idAuthor WHERE b.category_id = 1 LIMIT 6 "
+    const sql = "SELECT e.idEdition, b.title, a.name AS author, e.url_cover FROM edition AS e "
+        + "INNER JOIN book AS b ON e.book_id = b.idBook "
+        + "INNER JOIN author AS a ON b.author_id = a.idAuthor WHERE b.category_id = 1 LIMIT 6 "
     db.query(sql, (err, data) => {
         if (err) {
             return res.json({ Error: "Error SELECT (getfiction)" })

@@ -1,11 +1,7 @@
-import React, { useState } from 'react'
-import axios from 'axios';
+import React, { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min';
-// import styles from './SearchBook.module.css'
+import axios from 'axios';
 import './SearchBook.scss';
-import { useEffect } from 'react';
 
 /**
  * Сторінка "Пошук"

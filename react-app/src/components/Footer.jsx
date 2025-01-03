@@ -1,4 +1,4 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
+//import 'bootstrap/dist/css/bootstrap.min.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 // <FontAwesomeIcon icon={faHouse} />
 import { faLocationDot, faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons'

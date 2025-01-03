@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios'
-import 'bootstrap/dist/css/bootstrap.min.css';
 import BookCarousel from "../components/BookCarousel/BookCarousel.jsx"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAtom, faBoxArchive, faNewspaper, faHeart, faWandMagicSparkles } from '@fortawesome/free-solid-svg-icons'

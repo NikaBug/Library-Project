@@ -1,6 +1,4 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from "react-router-dom";
-// import LogoPic from '../assets/logo.png';
 
 /**
  * Заголовок сторінки
@@ -10,11 +8,10 @@ import { Link } from "react-router-dom";
 function Header() {
     return (
         <header>
-            <nav className="navbar navbar-expand-sm navbar-dark bg-dark bg-gradient" > {/* навігація  style={{ backgroundColor: "rgb(151, 226, 255)" }}*/}
+            <nav className="navbar navbar-expand-sm navbar-dark bg-dark bg-gradient" >
                 <div className="container-fluid justify-content-center text-white"> {/* контейнер для вмісту шапки */}
-                    <a className="navbar-brand" href="#meridianLogo"> {/* логотип */}
-                       {/* <h4>MERIDIAN</h4> */}
-                       <span className="fs-4 fw-bold">MERIDIAN</span>
+                    <a className="navbar-brand" href="#meridianLogo">
+                        <span className="fs-4 fw-bold">MERIDIAN</span>
                     </a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar" aria-label='navigation bar'>
                         <span className="navbar-toggler-icon" />

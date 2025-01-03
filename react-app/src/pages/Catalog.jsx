@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import CardDeck from '../components/CardDeck/CardDeck.jsx';
 import FilterBooks from '../components/FilterBooks/FilterBooks.jsx';
 import Autocomplete from '../components/Autocomplete/Autocomplete.jsx';
